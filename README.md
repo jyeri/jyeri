@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/jyeri](github.com/jyeri)
 
-- 📫 How to reach me **jyeri@live.fi or jyrirummukainen@gmx.com**
+- 📫 How to reach me on work related: **jyrirummukainen@gmx.com** or anything and everything else: **jyeri@live.fi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
