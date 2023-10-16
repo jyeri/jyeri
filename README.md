@@ -5,7 +5,7 @@
 
 - :mount_fuji: I have basic knowledge in **HTML, CSS, MYSQL and tiny bit of JavaScript**
 
-- 🌱 I’m currently learning **C++ Basics** and **doing Full Stack Open course**
+- 🌱 I’m currently learning **C++ & Python Basics** and doing **Full Stack Open course** slowly on the side.
 
 - 👨‍💻 All of my projects are available at [github.com/jyeri](github.com/jyeri)
 
