@@ -3,7 +3,7 @@
 
 - :deciduous_tree: I’m currently coding **C language in general**
 
-- :mount_fuji: I have basic knowledge in **HTML, CSS, MYSQL and tiny bit of JavaScript**
+- :mount_fuji: I have basic knowledge in **Python, HTML, CSS, MYSQL and tiny bit of JavaScript**
 
 - 🌱 I’m currently learning **C++ & Python Basics** and doing **Full Stack Open course** slowly on the side.
 
