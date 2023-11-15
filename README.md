@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyri Rummukainen</h1>
-<h3 align="center">29 Years old, learning software developer from finland</h3>
+<h3 align="center">Software developer from Finland</h3>
 
 - :deciduous_tree: I’m currently coding **C language in general**
 
