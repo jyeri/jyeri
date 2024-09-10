@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jyri Rummukainen</h1>
 <h3 align="center">Software developer from Finland</h3>
 
-- :deciduous_tree: I’m currently most comfortable with **C language in general**
+- :deciduous_tree: I’m currently most comfortable with **C language and ReactJS/TS in general**
 
-- :mount_fuji: I have basic knowledge in **Python, HTML, CSS, MYSQL, REACT and JavaScript**
+- :mount_fuji: I have basic knowledge in **Python, HTML, CSS, MYSQL, MongoDB and Java**
 
 - 🌱 I’m currently learning **C++ & Python Basics** and doing **Full Stack Open course** slowly on the side.
 
